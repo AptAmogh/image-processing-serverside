@@ -1,2 +1,2 @@
 # image-processing-serverside
-Image processing using different ways and modules
+To test image processing operations with multiple libraries and functions
